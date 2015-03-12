@@ -70,3 +70,14 @@ color: white !important;
 .form-control:focus {
 color: white !important;   
 }
+
+.navbar-fixed-bottom {
+background-color: #474747;
+color: #999;
+}
+
+.footer-text {
+position: relative;
+top: 15px;
+left: 10px;
+}
