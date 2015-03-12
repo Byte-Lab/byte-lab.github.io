@@ -1,1 +1,1 @@
-This is our website, Deal with it's awesomeness
+This is our website, Deal with its awesomeness
