@@ -40,7 +40,7 @@
    <text id="text" x="48.976929" y="109.12685" transform="scale(0.94,1.06)" style="font-size:30px;line-height:100%">
       <tspan style="
           font-weight:300;
-          color: white;
+          color:white;
           text-align:left;
           line-height:100%;
           text-anchor:start;
