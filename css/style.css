@@ -1,3 +1,8 @@
 .container-fluid {
 background-color: #474747;   
 }
+
+body {
+  background-color: #575757;
+  color: #474747;
+}
